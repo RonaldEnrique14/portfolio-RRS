@@ -1,4 +1,4 @@
-# Portfolio RRS
+# Portfolio RRS.
 
 ## Quién soy
 Soy Ronald (RRS), estudiante de 1º de DAM (Desarrollo de Aplicaciones Multiplataforma) en el IES Doctor Balmis.
